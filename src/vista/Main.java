@@ -14,8 +14,8 @@ public class Main {
     
     
     // sobrescribir valores
-    numUno = 10;
-    numDos= 2;
+    numUno = 0;
+    numDos= 0;
     // suma 2 numeros 
     
     int resultado = (numUno + numDos);
